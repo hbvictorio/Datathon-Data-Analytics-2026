@@ -1,11 +1,11 @@
-# Datathon Passos Mágicos - FIAP PosTech 2024
+# Datathon Passos Mágicos - FIAP PosTech 2026
 
 Este repositório contém a solução completa para o desafio Datathon da Associação Passos Mágicos, desenvolvido como parte da pós-graduação FIAP PosTech.
 
 ## 🌟 Acesse a Aplicação (Sistema de Alerta Precoce)
 A aplicação interativa desenvolvida para a equipe pedagógica da Passos Mágicos já está no ar! Você pode testar o modelo preditivo e explorar os dashboards através do link abaixo:
 
-👉 **[Acessar o Streamlit Cloud - Datathon Passos Mágicos](https://tech-challange-5---henrique-fpevhfzfqkeq4v9fu9iufg.streamlit.app/)**
+👉 **[Acessar o Streamlit Cloud - Datathon Passos Mágicos]([https://tech-challange-5---henrique-fpevhfzfqkeq4v9fu9iufg.streamlit.app/](https://datathon-data-analytics-2026-6ezphiexwzkebobrt9gsnh.streamlit.app/))**
 
 ---
 
