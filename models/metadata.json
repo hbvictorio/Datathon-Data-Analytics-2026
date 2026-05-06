@@ -1,0 +1,38 @@
+{
+  "model_name": "Logistic Regression",
+  "period": "2020-2024",
+  "train": "2020-2023",
+  "test": "2023->2024",
+  "train_size": 1489,
+  "test_size": 943,
+  "threshold": 0.6341858344250595,
+  "inde_mean": 6.76435525684468,
+  "n_features": 18,
+  "features": [
+    "IAN",
+    "IDA",
+    "IEG",
+    "IAA",
+    "IPS",
+    "IPP",
+    "IPV",
+    "INDE",
+    "IDA_IEG_r",
+    "IAA_IDA_d",
+    "IPS_IPP_m",
+    "INDE_bm",
+    "IDA_low",
+    "IEG_low",
+    "IAN_low",
+    "multi_alert",
+    "IDA_IPS_r",
+    "IPV_IEG_r"
+  ],
+  "metrics": {
+    "accuracy": 0.2142099681866384,
+    "f1": 0.12099644128113879,
+    "recall": 0.85,
+    "precision": 0.06513409961685823,
+    "auc_roc": 0.5543412608531522
+  }
+}
